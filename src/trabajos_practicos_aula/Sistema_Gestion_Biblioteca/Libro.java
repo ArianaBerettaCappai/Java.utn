@@ -1,5 +1,4 @@
-package Sistema_Gestion_Biblioteca;
-
+package trabajos_practicos_aula.Sistema_Gestion_Biblioteca;
 /**
  * Representa un ejemplar del catálogo de la biblioteca.
  *

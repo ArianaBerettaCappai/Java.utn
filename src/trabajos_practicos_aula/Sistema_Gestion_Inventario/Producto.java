@@ -1,4 +1,4 @@
-package Sistema_Gestion_Inventario;
+package trabajos_practicos_aula.Sistema_Gestion_Inventario;
 
 /**
  * Representa un producto de la tienda.
