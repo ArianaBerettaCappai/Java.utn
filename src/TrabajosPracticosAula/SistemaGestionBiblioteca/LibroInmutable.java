@@ -1,4 +1,4 @@
-package trabajos_practicos_aula.Sistema_Gestion_Biblioteca;
+package TrabajosPracticosAula.SistemaGestionBiblioteca;
 
 /**
  * Desafío de extensión: versión mínima e inmutable de un portador de datos

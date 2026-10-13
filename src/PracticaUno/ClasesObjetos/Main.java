@@ -1,4 +1,4 @@
-package Practica_uno.Clases_objetos;
+package PracticaUno.ClasesObjetos;
 
 public class Main {
     public static void main(String[] args){

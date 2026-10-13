@@ -1,4 +1,4 @@
-package Practica_uno.Clases_objetos;
+package PracticaUno.ClasesObjetos;
 //ejemplo:
 /**
  * Programa corto con una clase Persona y un main que crea

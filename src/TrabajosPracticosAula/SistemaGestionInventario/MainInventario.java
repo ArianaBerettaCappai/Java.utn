@@ -1,4 +1,4 @@
-package trabajos_practicos_aula.Sistema_Gestion_Inventario;
+package TrabajosPracticosAula.SistemaGestionInventario;
 
 /**
  * Punto de entrada del programa. Instancia varios objetos Producto

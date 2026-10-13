@@ -1,4 +1,4 @@
-package trabajos_practicos_aula.Sistema_Gestion_Biblioteca;
+package TrabajosPracticosAula.SistemaGestionBiblioteca;
 
 /**
  * Punto de entrada del programa. Instancia libros combinando ambos
